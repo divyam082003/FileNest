@@ -22,6 +22,13 @@ Build and run the app on your Android device or emulator.
 
 <h2 style="font-size:36px;">Screenshots</h2>
 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="FileNestScreenShot/splashScreen.png" alt="Home Screen" width="200px" height="400px">
+  <img src="FileNestScreenShot/homeScreen.png" alt="File Explorer" width="200px" height="400px">
+  <img src="FileNestScreenShot/internalStorage.png" alt="File Sharing" width="200px" height="400px">
+  <img src="FileNestScreenShot/cleanerScreen.png" alt="File Sharing" width="200px" height="400px">
+</div>
+
 
 <h2 style="font-size:36px;">License</h2>
 
