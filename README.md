@@ -28,10 +28,3 @@ Build and run the app on your Android device or emulator.
   <img src="FileNestScreenShot/internalStorage.png" alt="File Sharing" width="200px" height="400px">
   <img src="FileNestScreenShot/cleanerScreen.png" alt="File Sharing" width="200px" height="400px">
 </div>
-
-
-<h2 style="font-size:36px;">License</h2>
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-
